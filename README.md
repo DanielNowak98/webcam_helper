@@ -1,2 +1,2 @@
 # webcam_helper
-useful webcam functions
+useful webcam functions for opencv
